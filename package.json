@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-html5up",
+  "version": "1.0.0",
+  "description": "Landed by HTML5 UP html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prolifick1/portfolio-html5up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prolifick1/portfolio-html5up/issues"
+  },
+  "homepage": "https://prolifick1.github.io/portfolio-html5up/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
